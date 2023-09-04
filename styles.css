@@ -77,7 +77,7 @@ a {
 }
 
 .member-card {
-    background-color: aqua;
+    background-color: rgb(169, 176, 184);
     border: solid 3px slategray; 
     border-radius: 5%;
     text-align: center;
